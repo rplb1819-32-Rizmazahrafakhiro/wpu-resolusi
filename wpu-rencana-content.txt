@@ -6,8 +6,8 @@ RENCANA KONTEN WPU
  ^ vue
  ^ React
 -Stuktur Data Dasar
--PHP fremworks
-  ^ laravel
+-PHP frameworks
+  ^ Laravel
 -interviews
 -vlogs
 -python
