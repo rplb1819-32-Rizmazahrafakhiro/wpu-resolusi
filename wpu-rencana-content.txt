@@ -3,7 +3,8 @@ RENCANA KONTEN WPU
 -Javascript
 *ES6
 *Framework Javascript
- ^vue
+ ^ vue
+ ^ React
 -Stuktur Data Dasar
 -PHP fremworks
   ^ laravel
